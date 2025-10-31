@@ -35,6 +35,6 @@
 
 <h1>site solicitado como trabalho pela IBM</h1>
 <p>nosso site se chama fitunit onde o seu foco e ser um personal trainer online segue o link para mais informações</p>
-  <a href="https://caua-roberto466.github.io/fitunity-IBM/"></a>
+ [ver meu site](https://caua-roberto466.github.io/fitunity-IBM/)
 
 
