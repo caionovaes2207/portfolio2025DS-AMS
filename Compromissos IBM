@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>a qui estão todos os compromissos que tive com a empresa IBM</h1>
+
+    <h3>palestra dia 14 de maio de 2025</h3>
+    <img src="imagens/reuniao5-ibm.jpeg" alt="print da reunião">
+
+<h3>palestra 26 de maio de 2025</h3>
+<img src="imagens/reuniao-ibm.jpeg" alt="print da reunião">
+
+<h3>palestra 18 de junho de 2025</h3>
+<img src="imagens/reuniao2-ibm.jpeg" alt="print da reunião">
+
+<h3>palestra 22 de agosto de 2025</h3>
+<img src="imagens/reuniao3-ibm.jpeg" alt="print da reunião">
+
+<h3>palestra 26 de setembro de 2025</h3>
+<img src="imagens/reuniao4-ibm.jpeg" alt="print da reunião">
+
+</body>
+</html>
