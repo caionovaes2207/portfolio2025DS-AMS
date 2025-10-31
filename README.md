@@ -9,7 +9,7 @@
 
 <h1>imagens de compromissos que tive com a empresa IBM</h1>
 
-h3>palestra dia 14 de maio de 2025</h3>
+<h3>palestra dia 14 de maio de 2025</h3>
     <img width="1242" height="221" alt="image" src="https://github.com/user-attachments/assets/ae20f8e3-1b52-460a-aa2c-691a3a2fd575" />
 
 
@@ -27,5 +27,10 @@ h3>palestra dia 14 de maio de 2025</h3>
 
 <h3>palestra 26 de setembro de 2025</h3>
 <img width="1242" height="224" alt="image" src="https://github.com/user-attachments/assets/c94d6cac-1dbb-45c7-a8a1-cb2aebdb6913" />
+
+<h1>visita para IBM</h1>
+
+<h3>visita feita mo dia 23 de maio</h3>
+<img width="1242" height="260" alt="image" src="https://github.com/user-attachments/assets/bb07310c-61ad-43f5-a6ae-e01567666a15" />
 
 
